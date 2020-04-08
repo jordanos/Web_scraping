@@ -1,2 +1,2 @@
 # Web_scraping
-My web scraping apps.
+My web scraping python apps.
