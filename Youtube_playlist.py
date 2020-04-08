@@ -7,7 +7,10 @@ from selenium.webdriver.support import expected_conditions as EC
 
 import time
 
-playlist_link = 'https://www.youtube.com/watch?v=-AzGZ_CHzJk&list=PLzMcBGfZo4-mBungzp4GO4fswxO8wTEFx&index=1'
+# Link of the playlist example[https://www.youtube.com/watch?v=-AzGZ_CHzJk&list=PLzMcBGfZo4-mBungzp4GO4fswxO8wTEFx&index=1]
+
+playlist_link = 'YOUR-LINK'
+
 
 
 driver = webdriver.Firefox()
